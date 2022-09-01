@@ -1,3 +1,3 @@
 # deep_learning
 
-Coursework for [Practical Deep Learning for Coders](course.fast.ai)
+Coursework for [Practical Deep Learning for Coders](https://course.fast.ai)
